@@ -1,0 +1,22 @@
+E:\Arduino\WifRobot\WifRobot\obj\x86\Debug\HJMCU WIFI.exe
+E:\Arduino\WifRobot\WifRobot\obj\x86\Debug\HJMCU WIFI.pdb
+E:\Arduino\Rubik's Cube\WifRobot\obj\x86\Debug\Rubik's Cube.csprojResolveAssemblyReference.cache
+E:\Arduino\Rubik's Cube\WifRobot\obj\x86\Debug\Rubik's Cube.csproj.GenerateResource.Cache
+E:\Arduino\Rubik's Cube\WifRobot\obj\x86\Debug\RubiksCube.Form1.resources
+E:\Arduino\Rubik's Cube\WifRobot\bin\Debug\RubiksCube.exe
+E:\Arduino\Rubik's Cube\WifRobot\bin\Debug\RubiksCube.pdb
+E:\Arduino\Rubik's Cube\WifRobot\obj\x86\Debug\RubiksCube.Properties.Resources.resources
+E:\Arduino\Rubik's Cube\WifRobot\obj\x86\Debug\RubiksCube.exe
+E:\Arduino\Rubik's Cube\WifRobot\obj\x86\Debug\RubiksCube.pdb
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Debug\RubiksCube.exe
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Debug\RubiksCube.pdb
+E:\Arduino\Rubik's Cube\Rubik's Cube\bin\Debug\RubiksCube.exe
+E:\Arduino\Rubik's Cube\Rubik's Cube\bin\Debug\RubiksCube.pdb
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Debug\Rubik's Cube.csprojResolveAssemblyReference.cache
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Debug\RubiksCube.Form1.resources
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Debug\RubiksCube.Properties.Resources.resources
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Debug\Rubik's Cube.csproj.GenerateResource.Cache
+E:\Arduino\Rubik's Cube\Rubik's Cube\bin\Debug\RubiksCube.exe.manifest
+E:\Arduino\Rubik's Cube\Rubik's Cube\bin\Debug\RubiksCube.application
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Debug\RubiksCube.exe.manifest
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Debug\RubiksCube.application

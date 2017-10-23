@@ -1,0 +1,10 @@
+E:\Arduino\WifRobot\WifRobot\obj\x86\Debug\HJMCU WIFI.exe
+E:\Arduino\WifRobot\WifRobot\obj\x86\Debug\HJMCU WIFI.pdb
+E:\Arduino\Rubik's Cube\WifRobot\obj\x86\Debug\HJMCU WIFI.exe
+E:\Arduino\Rubik's Cube\WifRobot\obj\x86\Debug\HJMCU WIFI.pdb
+E:\Arduino\Rubik's Cube\WifRobot\bin\Debug\HJMCU WIFI.exe
+E:\Arduino\Rubik's Cube\WifRobot\bin\Debug\HJMCU WIFI.pdb
+E:\Arduino\Rubik's Cube\WifRobot\obj\x86\Debug\Rubik's Cube.csprojResolveAssemblyReference.cache
+E:\Arduino\Rubik's Cube\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+E:\Arduino\Rubik's Cube\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+E:\Arduino\Rubik's Cube\WifRobot\obj\x86\Debug\Rubik's Cube.csproj.GenerateResource.Cache

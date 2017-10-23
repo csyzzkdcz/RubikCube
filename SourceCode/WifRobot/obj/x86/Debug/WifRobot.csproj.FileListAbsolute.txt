@@ -1,0 +1,47 @@
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\bin\Debug\WifRobot.exe
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\bin\Debug\WifRobot.pdb
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifRobot.exe
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifRobot.pdb
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+C:\Users\Administrator\Desktop\上位机\WifRobot\WifRobot\WifRobot\obj\x86\Debug\WifRobot.exe
+C:\Users\Administrator\Desktop\上位机\WifRobot\WifRobot\WifRobot\obj\x86\Debug\WifRobot.pdb
+C:\Users\Administrator\Desktop\上位机\WifRobot\WifRobot\WifRobot\bin\Debug\WifRobot.exe
+C:\Users\Administrator\Desktop\上位机\WifRobot\WifRobot\WifRobot\bin\Debug\WifRobot.pdb
+C:\Users\Administrator\Desktop\上位机\WifRobot\WifRobot\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\上位机\WifRobot\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+C:\Users\Administrator\Desktop\上位机\WifRobot\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+C:\Users\Administrator\Desktop\上位机\WifRobot\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\上位机\WifRobot\WifRobot\WifRobot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\上位机\WifRobot\WifRobot\WifRobot\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\baiduyundownload\WIFI智能小车资1料\软件\电脑控制软件\WIFI智能小车软件原代码\WifRobot上位机\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+G:\baiduyundownload\WIFI智能小车资1料\软件\电脑控制软件\WIFI智能小车软件原代码\WifRobot上位机\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+G:\baiduyundownload\WIFI智能小车资1料\软件\电脑控制软件\WIFI智能小车软件原代码\WifRobot上位机\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+G:\baiduyundownload\WIFI智能小车资1料\软件\电脑控制软件\WIFI智能小车软件原代码\WifRobot上位机\WifRobot\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache
+G:\baiduyundownload\WIFI智能小车资1料\软件\电脑控制软件\WIFI智能小车软件原代码\WifRobot上位机\WifRobot\WifRobot\bin\Debug\HJMCU WIFI.exe
+G:\baiduyundownload\WIFI智能小车资1料\软件\电脑控制软件\WIFI智能小车软件原代码\WifRobot上位机\WifRobot\WifRobot\bin\Debug\HJMCU WIFI.pdb
+G:\baiduyundownload\WIFI智能小车资1料\软件\电脑控制软件\WIFI智能小车软件原代码\WifRobot上位机\WifRobot\WifRobot\obj\x86\Debug\HJMCU WIFI.exe
+G:\baiduyundownload\WIFI智能小车资1料\软件\电脑控制软件\WIFI智能小车软件原代码\WifRobot上位机\WifRobot\WifRobot\obj\x86\Debug\HJMCU WIFI.pdb
+C:\Users\HJ\Documents\Visual Studio 2010\Projects\WifRobot上位机\WifRobot\WifRobot\obj\x86\Debug\HJMCU WIFI.exe
+C:\Users\HJ\Documents\Visual Studio 2010\Projects\WifRobot上位机\WifRobot\WifRobot\obj\x86\Debug\HJMCU WIFI.pdb
+D:\BaiduNetdiskDownload\慧净电子PCwfi智能车上位机---第2版源码2015\WifRobot\WifRobot\obj\x86\Debug\HJMCU WIFI.exe
+D:\BaiduNetdiskDownload\慧净电子PCwfi智能车上位机---第2版源码2015\WifRobot\WifRobot\obj\x86\Debug\HJMCU WIFI.pdb
+D:\BaiduNetdiskDownload\慧净电子PCwfi智能车上位机---第2版源码2015\WifRobot\WifRobot\bin\Debug\HJMCU WIFI.exe
+D:\BaiduNetdiskDownload\慧净电子PCwfi智能车上位机---第2版源码2015\WifRobot\WifRobot\bin\Debug\HJMCU WIFI.pdb
+D:\BaiduNetdiskDownload\慧净电子PCwfi智能车上位机---第2版源码2015\WifRobot\WifRobot\obj\x86\Debug\WifRobot.csprojResolveAssemblyReference.cache
+D:\BaiduNetdiskDownload\慧净电子PCwfi智能车上位机---第2版源码2015\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+D:\BaiduNetdiskDownload\慧净电子PCwfi智能车上位机---第2版源码2015\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+D:\BaiduNetdiskDownload\慧净电子PCwfi智能车上位机---第2版源码2015\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+D:\BaiduNetdiskDownload\慧净电子PCwfi智能车上位机---第2版源码2015\WifRobot\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache
+E:\Arduino\WifRobot\WifRobot\obj\x86\Debug\HJMCU WIFI.exe
+E:\Arduino\WifRobot\WifRobot\obj\x86\Debug\HJMCU WIFI.pdb
+E:\Arduino\WifRobot\WifRobot\bin\Debug\HJMCU WIFI.exe
+E:\Arduino\WifRobot\WifRobot\bin\Debug\HJMCU WIFI.pdb
+E:\Arduino\WifRobot\WifRobot\obj\x86\Debug\WifRobot.csprojResolveAssemblyReference.cache
+E:\Arduino\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+E:\Arduino\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+E:\Arduino\WifRobot\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache

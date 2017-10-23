@@ -1,0 +1,11 @@
+E:\Arduino\Rubik's Cube\Rubik's Cube\bin\Release\RubiksCube.exe
+E:\Arduino\Rubik's Cube\Rubik's Cube\bin\Release\RubiksCube.pdb
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Release\RubiksCube.Form1.resources
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Release\RubiksCube.Properties.Resources.resources
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Release\Rubik's Cube.csproj.GenerateResource.Cache
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Release\RubiksCube.exe
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Release\RubiksCube.pdb
+E:\Arduino\Rubik's Cube\Rubik's Cube\bin\Release\RubiksCube.exe.manifest
+E:\Arduino\Rubik's Cube\Rubik's Cube\bin\Release\RubiksCube.application
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Release\RubiksCube.exe.manifest
+E:\Arduino\Rubik's Cube\Rubik's Cube\obj\x86\Release\RubiksCube.application
